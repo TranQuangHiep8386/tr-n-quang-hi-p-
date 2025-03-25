@@ -15,8 +15,18 @@ BÀI TOÁN:
 BÀI LÀM
 + Tạo CSDL QLSV trên giao diện đồ họa:
 + ![image](https://github.com/user-attachments/assets/34ddf40f-735f-4a8d-a94f-bf458621b5b4)
++ ![image](https://github.com/user-attachments/assets/b0e2d427-e55a-4490-ba25-e0cd8fc3f46c)
+
 Tạo bảng sinh viên:
++tại QLDL mới tạo chọn tables-new-tables..
+![image](https://github.com/user-attachments/assets/30740b9a-9f99-4e18-8dd0-97e28c241519)
+
+
 ![image](https://github.com/user-attachments/assets/d41a6a6f-f730-43e1-af42-8bcc51c2649d)
+CTRL+SHIFT+S Để lưu +đặt tên bản
+
+
++ lập lại các bước để tạo các bảng khác 
 + Lop(#maLop,tenLop)
 ![image](https://github.com/user-attachments/assets/68c92200-9437-4757-942f-36fb69ae9526)
 + GVCN(#@maLop,#@magv,#HK)
@@ -35,3 +45,7 @@ Tạo bảng sinh viên:
  + ![image](https://github.com/user-attachments/assets/73edabee-b786-4810-8ab9-45074e14a7da)
   + DKMH(#@maLopHP,#@maSV,DiemTP,DiemThi,PhanTramThi)
 ![image](https://github.com/user-attachments/assets/26fa51b1-e5a1-4164-9590-e21a98c2ecbc)
++ Thiết lập các khóa FK, CK, PK cho bảng
++ ![image](https://github.com/user-attachments/assets/dbafd336-704d-45b1-b97c-dba454885bd4)
++ Các bảng dưới tương tự như các bảng trên
+
