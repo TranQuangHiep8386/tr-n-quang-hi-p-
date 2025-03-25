@@ -50,5 +50,11 @@ CTRL+SHIFT+S Để lưu +đặt tên bản
 + Các bảng dưới tương tự như các bảng trên
 + Thiết lập FK cho bảng GVCN
 + ![image](https://github.com/user-attachments/assets/7d62fb79-4287-443b-8b6a-421a942133a1)
+Chuyển các thao tác đồ họa thành lệnh SQL tương đương
+
+
+![image](https://github.com/user-attachments/assets/addd2d3c-9f3f-452a-96da-1cd440a95ff5)
+
+![image](https://github.com/user-attachments/assets/1308b89f-020a-48d0-b3ab-715ac7792901)
 
 
