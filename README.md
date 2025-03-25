@@ -48,4 +48,7 @@ CTRL+SHIFT+S Để lưu +đặt tên bản
 + Thiết lập các khóa FK, CK, PK cho bảng
 + ![image](https://github.com/user-attachments/assets/dbafd336-704d-45b1-b97c-dba454885bd4)
 + Các bảng dưới tương tự như các bảng trên
++ Thiết lập FK cho bảng GVCN
++ ![image](https://github.com/user-attachments/assets/7d62fb79-4287-443b-8b6a-421a942133a1)
+
 
